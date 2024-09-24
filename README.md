@@ -1,6 +1,6 @@
 # So Long
 
-Welcome to `so_long_42`, a 2D map-based game developed using the MiniLibX library. This game project is part of a coding school curriculum designed to teach students the basics of graphic programming, game logic, and the handling of user inputs through the creation of a simple yet engaging game.
+Welcome to `so_long_42`, a 2D map-based game developed using the MiniLibX library. This game project is part of 42 coding school curriculum designed to teach students the basics of graphic programming, game logic, and the handling of user inputs through the creation of a simple yet engaging game.
 
 ## Overview
 
